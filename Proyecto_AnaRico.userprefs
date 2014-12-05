@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\moverAscensor.cs">
+    <Files>
+      <File FileName="Assets\Scripts\moverAscensor.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\inventario2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\pulsarBoton.cs" Line="31" Column="1" />
+      <File FileName="Assets\Scripts\inventario.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cogerLlave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\abrirPuerta.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
